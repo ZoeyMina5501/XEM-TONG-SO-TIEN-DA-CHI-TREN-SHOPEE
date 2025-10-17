@@ -8,19 +8,34 @@ Shopee đã thay đổi API nên các mã code hiện tại sẽ không chạy �
 ✨Tính năng
 
 . Thống kê tổng số tiền đã chi tiêu
+
 . Đếm tổng số đơn hàng đã hoàn thành
+
 . Đếm tổng số sản phẩm đã mua
+
 . Tính tổng tiền tiết kiệm từ mã giảm giá
+
 . Đánh giá mức độ "nghiện" Shopee của bạn
 
+
 Dưới đây là cách để xem tổng số tiền đã mua hàng trên Shopee trên máy tính
+
 BƯỚC 1: Bạn click vào link "https://shopee.vn/user/purchase/"
-BƯỚC 2: Bấm F12 -> tiếp tục chọn "sources"
-<img width="863" height="187" alt="image" src="https://github.com/user-attachments/assets/ccfe618c-3b2d-47e7-aa6b-465b17ea6577" />
-BƯỚC 3: Click vào ">>" -> snippets -> new snippet
-<img width="259" height="170" alt="image" src="https://github.com/user-attachments/assets/f66fdcb2-ded9-4060-8332-d4433fdcd46f" />
-BƯỚC 4: Sau khi nào Snippet bạn coppy toàn bộ code bên dưới vào (có thể bấm ctrl S để lần sau chạy tiếp)
+
+BƯỚC 2: Bấm F12 -> tiếp tục chọn "Sources"
+
+<img width="1163" height="226" alt="image" src="https://github.com/user-attachments/assets/844f21d5-f75d-4081-bad7-26a0c69d915a" />
+
+BƯỚC 3: Tiếp tục làm theo thứ tự trong ảnh
+
+<img width="1448" height="396" alt="image" src="https://github.com/user-attachments/assets/7bfe9205-1117-4e54-a0ea-f00c6749b8f7" />
+
+BƯỚC 4: Tiếp tục chọn new Snippets -> bạn coppy toàn bộ code bên dưới vào (có thể bấm ctrl S để lần sau chạy tiếp)
+
+<img width="967" height="627" alt="image" src="https://github.com/user-attachments/assets/099a20f7-856c-41d7-b2c2-59e3c045bf40" />
+
 BƯỚC 5: Bấm ctrl + enter (sau đó chờ để code xử lý)
+
 -------------------------------------------------------------
 var tongDonHang = 0;
 var tongTienTietKiem = 0;
