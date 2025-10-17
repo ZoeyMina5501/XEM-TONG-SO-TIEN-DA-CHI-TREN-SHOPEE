@@ -1,10 +1,13 @@
 # XEM-TỔNG-SỐ-TIỀN-ĐÃ-CHI-TRÊN-SHOPEE
+
 THỐNG KÊ SỐ TIỀN ĐÃ MUA Ở SHOPEE CODE MỚI
+
 CÔNG CỤ THÔNG KÊ TỔNG ĐƠN HÀNG VÀ SỐ TIỀN ĐÃ MUA TRÊN SHOPEE
 
 📈 Công cụ thống kê chi tiêu trên Shopee
 
 . Công cụ giúp bạn thống kê chi tiêu và lịch sử mua sắm trên Shopee, bao gồm tổng số tiền đã chi, số đơn hàng hoàn tất, tổng sản phẩm đã mua và cả số tiền tiết kiệm được nhờ mã giảm giá.
+
 . Shopee gần đây đã thay đổi API, khiến các đoạn mã cũ không còn hoạt động. Mình đã cập nhật lại từ các code cũ để tương thích với hệ thống mới nhất, giúp bạn dễ dàng kiểm tra số tiền đã “cháy ví” trong thời gian qua.
 
 ✨Tính năng
