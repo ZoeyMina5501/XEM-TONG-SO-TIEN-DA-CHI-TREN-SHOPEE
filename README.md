@@ -1,4 +1,4 @@
-# Xem-t-ng-s-ti-n-mua-tr-n-shopee-m-i
+# XEM-TỔNG-SỐ-TIỀN-ĐÃ-CHI-TRÊN-SHOPEE
 THỐNG KÊ SỐ TIỀN ĐÃ MUA Ở SHOPEE CODE MỚI
 CÔNG CỤ THÔNG KÊ TỔNG ĐƠN HÀNG VÀ SỐ TIỀN ĐÃ MUA TRÊN SHOPEE
 
